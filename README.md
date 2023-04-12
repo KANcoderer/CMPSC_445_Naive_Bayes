@@ -1,5 +1,6 @@
 # CMPSC_445_Naive_Bayes
 Here is the information for each test case
+
 testset 
   Accuracy=92.2%
   classes=4
